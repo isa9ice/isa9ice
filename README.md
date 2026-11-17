@@ -56,6 +56,26 @@ I design and develop applications that connect user-facing experiences with back
 
 **Scope and confidentiality:** The portfolio pages describe application components and engineering contributions, not an independent verification that every feature is deployed or production-ready. Private source code, credentials, customer data and internal institutional systems are not published.
 
+## Additional Project Case Studies
+
+These projects demonstrate application development beyond education and online retail. Each portfolio is a **non-sensitive technical overview**, while the underlying operational code remains private.
+
+### [CourtRun.ng — Legal Logistics & Court Service Coordination](docs/courtrun-portfolio.md)
+
+Designed and implemented operational workflows for a legal-logistics platform, including multi-role user journeys, service requests, agent-approval processes, and cloud-backed application features. This is an independent commercial project, **not an official court system**.
+
+**Focus:** Workflow design · Access control concepts · Cloudflare Workers / D1 · Operational testing
+
+[Read CourtRun case study](docs/courtrun-portfolio.md)
+
+### [9jaTailors.com — Tailoring & Fashion Marketplace](docs/9jatailors-portfolio.md)
+
+Developed a marketplace application with customer, vendor and administration interfaces, fashion-related listings, profile management and data-integrated web workflows.
+
+**Focus:** React · TypeScript · Firebase · Marketplace user experiences
+
+[Read 9jaTailors case study](docs/9jatailors-portfolio.md)
+
 ## Professional Development
 
 - BSc in Information Technology
