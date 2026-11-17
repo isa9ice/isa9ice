@@ -22,32 +22,39 @@ Alongside my professional IT responsibilities, I develop web applications and cl
 
 ## Featured Projects
 
-### 9jaQuest — Educational Technology
-An online computer-based testing, learning and academic competition platform.
+I design and develop applications that connect user-facing experiences with backend services, data and operational workflows. These public repositories are **portfolio case studies**; operational source code and sensitive configuration are maintained privately.
 
-- Next.js, TypeScript and Supabase
-- Online assessments and educational resources
-- Learner-focused application features
+### [9jaQuest — Computer-Based Testing & Learning](https://github.com/isa9ice/9jaquest-portfolio)
 
-[View Project Portfolio](https://github.com/isa9ice/9jaquest-portfolio)
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS and Supabase
 
-### 9jaSales — E-commerce Platform
-An e-commerce and business operations application involving inventory management and logistics workflows.
+**Purpose:** Bring educational resources, computer-based assessments and learner progress into one platform.
 
-- React, TypeScript and Firebase
-- Inventory and order management features
-- Business operations workflows
+**My work:** Developed learner-, parent- and administrator-oriented interfaces; built assessment, results and progress views; and integrated authentication and backend data workflows.
 
-[View Project Portfolio](https://github.com/isa9ice/9jasales-portfolio)
+**Explore:** [Portfolio](https://github.com/isa9ice/9jaquest-portfolio) · [Technical overview](https://github.com/isa9ice/9jaquest-portfolio/blob/main/docs/TECHNICAL_OVERVIEW.md)
 
-### Sales9ja — E-commerce & Delivery Platform
-A web-based commerce application involving orders, administration and delivery workflows.
+### [9jaSales — E-commerce, Inventory & Logistics](https://github.com/isa9ice/9jasales-portfolio)
 
-- PHP and MySQL
-- Order management
-- Delivery and business operations features
+**Technologies:** React, TypeScript, Node.js, Express and Firebase
 
-[View Project Portfolio](https://github.com/isa9ice/sales9ja-portfolio)
+**Purpose:** Connect online shopping with order administration, inventory management and delivery coordination.
+
+**My work:** Developed customer-facing and role-oriented operational interfaces; worked on checkout, order tracking, stock and rider workflows; and integrated frontend screens with backend and Firebase services.
+
+**Explore:** [Portfolio](https://github.com/isa9ice/9jasales-portfolio) · [Technical overview](https://github.com/isa9ice/9jasales-portfolio/blob/main/docs/TECHNICAL_OVERVIEW.md)
+
+### [Sales9ja — Marketplace & Delivery Operations](https://github.com/isa9ice/sales9ja-portfolio)
+
+**Technologies:** PHP, MySQL, JavaScript and Progressive Web App (PWA) technologies
+
+**Purpose:** Support the retail process from product discovery and checkout through order handling and shipment workflows.
+
+**My work:** Worked on database-driven commerce components, order and delivery administration, role-dependent interfaces, and mobile/PWA-related functionality.
+
+**Explore:** [Portfolio](https://github.com/isa9ice/sales9ja-portfolio) · [Technical overview](https://github.com/isa9ice/sales9ja-portfolio/blob/main/docs/TECHNICAL_OVERVIEW.md)
+
+**Scope and confidentiality:** The portfolio pages describe application components and engineering contributions, not an independent verification that every feature is deployed or production-ready. Private source code, credentials, customer data and internal institutional systems are not published.
 
 ## Professional Development
 
